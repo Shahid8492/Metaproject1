@@ -42,6 +42,6 @@ function TotalSupply() {
 
 // call your functions below this line
 
-mintNFT("H&M","Beige","M","Shirt");
+mintNFT("Nike","Beige","L","Shirt");
 listNFTs();
 TotalSupply();
